@@ -1,0 +1,16 @@
+.header-image {
+  width: 100%;
+  margin-top: -2em;
+  margin-bottom: 2em;
+}
+
+.about-profile-pic {
+  float: left;
+  margin: 2em 1em 1em 0em;
+  width: 40%;
+}
+
+.bullet-list {
+  list-style-type: square;
+  color: grey;
+}

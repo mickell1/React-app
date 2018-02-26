@@ -1,0 +1,18 @@
+.header-image {
+  width: 100%;
+  margin-top: -2em;
+  margin-bottom: 0em;
+  height: 20em;
+}
+
+.person-wrapper {
+  margin-bottom: 2em;
+}
+
+.person-wrapper p {
+  text-align: justify;
+}
+
+h2 {
+  margin-bottom: 1em;
+}

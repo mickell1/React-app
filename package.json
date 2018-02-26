@@ -1,0 +1,28 @@
+{
+  "name": "react-",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "babel": "^6.23.0",
+    "bootstrap": "^4.0.0",
+    "flag-icon-css": "^3.0.0",
+    "font-awesome": "^4.7.0",
+    "hover.css": "^2.2.1",
+    "jquery": "^3.3.1",
+    "lodash": "^4.17.5",
+    "node": "^9.5.0",
+    "react": "^16.2.0",
+    "react-bootstrap": "^0.32.1",
+    "react-dom": "^16.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.1",
+    "react-select": "^1.2.1",
+    "tether": "^1.4.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
