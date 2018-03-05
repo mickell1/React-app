@@ -6,7 +6,7 @@ You can find the most recent version of this guide [here](https://github.com/fac
 ## How to run the application
 1. First clone the repo into your file directory: git@github.com:mickell1/React-app.git
 
-2. run npm install -g create-react-app
+2. run npm install/yarn install
 
 3. run npm start
 
